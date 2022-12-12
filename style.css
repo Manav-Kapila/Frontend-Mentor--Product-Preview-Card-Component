@@ -198,6 +198,12 @@ html {
     }
 }
 
+@media screen and (max-width: 500px) {
+    .product_card {
+        width: 90%;
+    }
+}
+
 @media screen and (max-width: 376px) {
     .product_card {
         width: 345px;
